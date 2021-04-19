@@ -1,0 +1,3 @@
+[submodule "dependent_module"]
+	path = dependent_module
+	url = https://github.com/pritam-d29/dependent_module.git
